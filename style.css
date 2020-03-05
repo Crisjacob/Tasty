@@ -1,0 +1,45 @@
+header a{
+    color: black;
+}
+.carousel-inner{
+overflow: hidden;
+}
+.carousel-inner{
+    height: 650px;
+}
+.pro{
+    height: 350px;
+}
+.p-5{
+    position: relative;
+}
+.foto1{
+    position: absolute;
+    top: 9px;
+    right: 0;
+    border-radius: 24px;
+}
+
+.container-icono{
+    margin-left: 14%;
+}
+.container-icono h2{
+    text-align: center;
+    margin-bottom: 2%;
+}
+.container-icono h5{
+    text-align: center;
+}
+.media-body{
+    width: 25%;
+}
+
+
+
+@media (min-width: 768px) {
+    .carousel-multi-item-2 .col-md-3 {
+    float: left;
+    width: 33%;
+    max-width: 100%; } }
+    
+ 
